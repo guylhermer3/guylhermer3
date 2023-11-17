@@ -16,3 +16,7 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+![Snake animation](https://github.com/guylhermer3/guylhermer3/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api?username=guylhermer3&repo=guylhermer3&theme=react)](https://github.com/guylhermer3/guylhermer3)
