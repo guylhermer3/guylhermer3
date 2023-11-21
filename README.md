@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermer3&hide_progress=true)
 
-## Tecnologias que eu prático recentemente com mais frequência...
+## Tecnologias que eu prático com mais frequência...
 
 <div style="display: inline_black"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
