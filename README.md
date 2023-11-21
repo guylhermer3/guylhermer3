@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Guilherme Rodrigues ✋
+### Por enquanto meu perfil está imcompleto, quando eu tiver tempo irei deixa-lo melhor! 
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5569984452591)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guy.rodrygues)
@@ -8,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermer3&hide_progress=true)
 
-## Tecnologias que eu tenho conhecimento
+## Tecnologias que eu prático recentemente com mais frequência...
 
 <div style="display: inline_black"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
